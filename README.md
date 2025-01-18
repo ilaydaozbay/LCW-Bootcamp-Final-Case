@@ -109,7 +109,7 @@ allure serve
 * **Screenshots:** Screenshots are taken for failed tests and included in the Allure reports.
   
 ### Video
-<!-- Uploading "lcwautomation.mp4"... -->
+[<!-- Uploading "lcwautomation.mp4"... -->](https://github.com/user-attachments/assets/8a258b75-d1ab-4c1d-abf5-163dc0524c24)
 
 
 
